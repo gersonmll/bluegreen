@@ -99,7 +99,7 @@
     </div><!-- /container -->
     <script>
       // Initialize Datatables
-      // GERSU 10
+      // GERSU 11
       $(document).ready( function() {
         $('.datatable').dataTable();
       });
